@@ -1,0 +1,37 @@
+body{
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+    
+}
+h1{
+    font-size: 60px;
+}
+h1 span{
+    color: orange;
+}
+section{
+    display: flex;
+    background-image: image(i)efe;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 80%;   
+}
+
+a.link-btn{
+    background-image: linear-gradient(#ff9100, rgb(243, 135, 11));
+    color: white;
+    padding: 10px 40px;
+    font-weight: 700;
+    border-radius: 5px;
+    text-decoration: none;
+    padding-bottom: 10px;
+}
+
+.top{
+ background-image: url(images/top-banner.png);
+ background-repeat: no-repeat;
+}
